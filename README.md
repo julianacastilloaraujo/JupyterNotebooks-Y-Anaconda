@@ -5,4 +5,5 @@
 
 # Topics
 * Google Colab (Clase 2) ingreso desde navegador y google drive use PrimerNotebook.ipynb
-* Google Colab, Librerias, importacion, atajos use SegundoNotebook.ipynb
+* Google Colab (Clase 3) Librerias, importacion, atajos use SegundoNotebook.ipynb
+* Deepnote (Clase 4) 
