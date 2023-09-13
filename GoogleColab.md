@@ -22,3 +22,8 @@
 * Caracteristicas que otorgan poder de computo o ejecucion
 * Modelos muy grandes
 * O mucho tiempo para entrenarse
+
+# Datos interesantes de inicio
+* Google colab funciona con python
+* Dentro de las celdas funciona con python puro
+
