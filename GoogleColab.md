@@ -27,3 +27,5 @@
 * Google colab funciona con python
 * Dentro de las celdas funciona con python puro
 
+# Que notebook usamos 
+* El notebook que usamos para la clase 2 fue 
