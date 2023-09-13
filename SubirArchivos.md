@@ -12,3 +12,9 @@
 * Desde el nombre de las columnas
 * Triangulo invertido
 * Esta es la forma de subir archivos a google colab
+
+# Nueva forma de subir archivo 
+* En la carpeta "files"
+* Clic en flecha hacia arriba (primer simbolo de izquierda a derecha)
+* Se abre Finder
+* Seleccionar archivo .csv
